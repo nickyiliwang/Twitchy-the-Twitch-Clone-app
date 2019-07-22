@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "doublelift",
+      "description": "everyone is trash",
+      "id": 1
+    },
+    {
+      "title": "c9 sneaky",
+      "description": "12 naked cowboys",
+      "id": 2
+    },
+    {
+      "title": "tyler1",
+      "description": "you have no mana! I'm alpha as fuck",
+      "id": 3
+    },
+    {
+      "title": "polt",
+      "description": "you need more scvs, mineral depleted",
+      "id": 4
+    },
+    {
+      "title": "ChanL LootBox Daily",
+      "description": "SKRT-SKRT I feel fine",
+      "id": 5
+    },
+    {
+      "title": "nick the rengar",
+      "description": "rengar challenger gameplay, best rengar world, plat 1 high elo",
+      "userId": "115071875001235251978",
+      "id": 6
+    }
+  ]
+}

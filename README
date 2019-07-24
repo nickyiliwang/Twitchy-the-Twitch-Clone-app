@@ -1,0 +1,7 @@
+How to set up OBS
+
+go to settings, stream, custom
+
+for the server: rtmp://localhost/live
+
+for the stream key: the displayed id in your URL ie: 6

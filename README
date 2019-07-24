@@ -1,3 +1,18 @@
+Twitchy-react-redux-github-page
+This is an react-redux app with full CRUD functionality and a bunch of notes explaining the processes. It is a basic clone of the popular video game streaming site Twitch.tv, it comes with its own backend JSON api for storing data, such as the streamer's profile. You are able to login-In and create your own stream with google OAuth, with your email, and you will have editing the deleting functionality unique to your own stream. The UI is simple and straightforward.
+
+This app ustilitzed a few packages:
+
+React-Router-DOM for navigating around the site, it has its own history file for storing custom routes, imported Link function for buttons to redirect, and Switch for making each route unique and avoid overlapping.
+
+Semantic UI is the basic css framwork for the App's UI.
+
+React-Redux to wire up the redux functionality, action creators communicates with the backend api, connect function, mapStateToProps and ownProps for prefetching streams, Reducers that dynamically creates keys to update the store depending upon the user's actions.
+
+JSONPlaceholder is the REST-Api server used because it strictly follows REST naming convetion such as get, post, put, patch, delete,
+
+Lodash for a few of their useful methods such as ._omit, ._mapKeys in the action creator.
+
 How to set up OBS
 
 go to settings, stream, custom

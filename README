@@ -1,4 +1,5 @@
-Twitchy-react-redux-github-page
+## Twitchy-react-redux-github-page
+
 This is an react-redux app with full CRUD functionality and a bunch of notes explaining the processes. It is a basic clone of the popular video game streaming site Twitch.tv, it comes with its own backend JSON api for storing data, such as the streamer's profile. You are able to login-In and create your own stream with google OAuth, with your email, and you will have editing the deleting functionality unique to your own stream. The UI is simple and straightforward.
 
 This app ustilitzed a few packages:
